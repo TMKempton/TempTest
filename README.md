@@ -32,7 +32,9 @@ various configurations from the paper. These may be easily adapted to explore fu
 
 Logic implementing our method may be found in `/src`. 
 
-Code for baseline methods may be easily obtained from [Fast-DetectGPT](https://github.com/baoguangsheng/fast-detect-gpt), with
+## Acknowledgements
+
+We obtained (and adapted as needed to integrate) code for baseline methods from [Fast-DetectGPT](https://github.com/baoguangsheng/fast-detect-gpt), with
 the exception of PHD which was retrieved from [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi6g_a8vI6JAxUrWEEAHfLAJIYQFnoECBMQAQ&url=https%3A%2F%2Fgithub.com%2FArGintum%2FGPTID&usg=AOvVaw0LNRNQC7uWVm-8tth4jkAn&opi=89978449).
 
 ## Contributions
